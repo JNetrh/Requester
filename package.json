@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "byline": "^5.0.0",
-    "event-stream": "^4.0.1",
     "fs": "0.0.1-security",
     "line-by-line": "^0.1.6",
     "request": "^2.88.0"
