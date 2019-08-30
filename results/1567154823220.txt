@@ -1,0 +1,1 @@
+http://api-dcrm-service.volkswagen.net/api/dss/json/v1/skoda-AUT/id?q=06893&clientId=d4a69e3c8a;06893;C;AUT;Alberschwende;Wäldergarage Meusburger GmbH
